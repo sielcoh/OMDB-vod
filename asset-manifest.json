@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OMDB-vod/static/css/main.ee1f1bdc.css",
+    "main.js": "/OMDB-vod/static/js/main.565ee5e5.js",
+    "static/js/787.ec704a7a.chunk.js": "/OMDB-vod/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/OMDB-vod/index.html",
+    "main.ee1f1bdc.css.map": "/OMDB-vod/static/css/main.ee1f1bdc.css.map",
+    "main.565ee5e5.js.map": "/OMDB-vod/static/js/main.565ee5e5.js.map",
+    "787.ec704a7a.chunk.js.map": "/OMDB-vod/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee1f1bdc.css",
+    "static/js/main.565ee5e5.js"
+  ]
+}
