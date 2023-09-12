@@ -1,0 +1,15 @@
+.strip{
+    height: 350px;
+    background-color: gray;
+    background-position: center;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.strip h1{
+    color:white
+    
+}
